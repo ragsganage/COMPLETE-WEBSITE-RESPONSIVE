@@ -1,0 +1,1 @@
+burger = document.querySelector('.burger')
